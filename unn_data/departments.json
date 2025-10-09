@@ -1,0 +1,18 @@
+{
+  "Computer Science": {
+    "HOD": "Dr. U. N. Eze",
+    "Office": "Rm 001, New Computer Science Building"
+  },
+  "Mass Communication": {
+    "HOD": "Dr. C. A. Nwafor",
+    "Office": "Faculty of Arts Complex"
+  },
+  "Mechanical Engineering": {
+    "HOD": "Engr. C. I. Ezeh",
+    "Office": "Faculty of Engineering Building"
+  },
+  "Biochemistry": {
+    "HOD": "Dr. A. C. Nnamani",
+    "Office": "Faculty of Biological Sciences"
+  }
+}

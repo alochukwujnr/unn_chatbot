@@ -1,8 +1,18 @@
 {
-  "Nnamdi Azikiwe Library": "Located near the Vice Chancellor's office, central campus.
-Location: 6°51'50"N 7°24'30"E",
-  "ICT Building": "Behind Jimbazz, beside Faculty of Engineering complex.
-Coordinates: 6°52'03"N 7°24'30"E",
-  "Student Affairs": "Behind the Vice Chancellor’s Office, near the Registry.",
-  "Faculty of Engineering": "Next to the main gate, right after the Energy Centre."
+ "Nnamdi Azikiwe Library": {
+ "description": "Located near the Vice Chancellor's office, central campus.",
+ "coordinates_dms": "6°51′50″N 7°24′30″E",
+ "coordinates_decimal": "6.863889, 7.408333"
+ },
+ "ICT Building": {
+ "description": "Behind Jimbazz, beside the Faculty of Engineering complex.",
+ "coordinates_dms": "6°52′03″N 7°24′30″E",
+ "coordinates_decimal": "6.867500, 7.408333"
+ },
+ "Student Affairs": {
+ "description": "Behind the Vice Chancellor’s Office, near the Registry."
+ },
+ "Faculty of Engineering": {
+ "description": "Next to the main gate, right after the Energy Centre."
+ }
 }
